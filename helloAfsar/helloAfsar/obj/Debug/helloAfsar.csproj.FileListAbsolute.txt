@@ -1,0 +1,6 @@
+E:\BITM PROJECT INFO\project1\helloAfsar\helloAfsar\bin\Debug\helloAfsar.exe.config
+E:\BITM PROJECT INFO\project1\helloAfsar\helloAfsar\bin\Debug\helloAfsar.exe
+E:\BITM PROJECT INFO\project1\helloAfsar\helloAfsar\bin\Debug\helloAfsar.pdb
+E:\BITM PROJECT INFO\project1\helloAfsar\helloAfsar\obj\Debug\helloAfsar.csprojResolveAssemblyReference.cache
+E:\BITM PROJECT INFO\project1\helloAfsar\helloAfsar\obj\Debug\helloAfsar.exe
+E:\BITM PROJECT INFO\project1\helloAfsar\helloAfsar\obj\Debug\helloAfsar.pdb
