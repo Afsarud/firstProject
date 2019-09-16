@@ -14,12 +14,12 @@ namespace helloAfsar
             String sndName = "";
             Console.WriteLine("Type your first name:");
             fstName = Console.ReadLine();
-            Console.WriteLine("Hi: "+fstName);
+            Console.WriteLine(fstName);
 
             Console.WriteLine("Type your Second name:");
             sndName = Console.ReadLine();
-            Console.WriteLine("Hi: "+ sndName);
-            Console.WriteLine("Your Full Name: "+fstName  +sndName);
+            Console.WriteLine(sndName);
+            Console.WriteLine("Your Full Name: "+fstName+ " " +sndName);
             Console.ReadKey();
         }
     }
